@@ -1,6 +1,5 @@
 ---
-title: "My First Post"
+title: "第一篇博客"
 date: 2018-05-08T16:31:16+08:00
-draft=true
 ---
 
